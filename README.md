@@ -1,4 +1,4 @@
 # test
 
 
-Hello, lets have a merge conflict
+Hello, lets have a conflict
